@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EqnoCal</string>
+    <string name="main_screen">0</string>
+    <string name="second_screen" />
+</resources>

@@ -1,2 +1,2 @@
 # EqnoCal-Android
-A scientific calculator on Android.
+A scientific calculator for Android.

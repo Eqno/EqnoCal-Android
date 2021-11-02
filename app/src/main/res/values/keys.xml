@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--functions-->
+    <string name="switch_mode_scientific">S</string>
+    <string name="switch_mode_normal">N</string>
+    <string name="about">about</string>
+    <string name="second_page">2nd</string>
+
+    <!--numbers-->
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="zero">0</string>
+    <string name="point">.</string>
+
+    <!--operators-->
+    <string name="plus">+</string>
+    <string name="minus">−</string>
+    <string name="multiply">×</string>
+    <string name="divide">÷</string>
+    <string name="percent">%</string>
+
+    <!--math-->
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="arcsin">sin⁻¹</string>
+    <string name="arccos">cos⁻¹</string>
+    <string name="arctan">tan⁻¹</string>
+
+    <string name="lg">lg</string>
+    <string name="ln">ln</string>
+    <string name="left_bracket">(</string>
+    <string name="right_bracket">)</string>
+
+    <string name="power">xʸ</string>
+    <string name="square_root">√</string>
+    <string name="factorial">x!</string>
+    <string name="reciprocal">1/x</string>
+
+    <!--special_number-->
+    <string name="pi">π</string>
+    <string name="euler_number">e</string>
+
+    <!--ohters-->
+    <string name="ac">AC</string>
+    <string name="backspace">&lt;-</string>
+    <string name="equal">=</string>
+
+</resources>

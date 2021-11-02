@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/translucent_black">
+    <item>
+        <shape android:shape="rectangle">
+            <!-- android:radius 弧形的半径 -->
+            <corners />
+            <!-- 填充的颜色 -->
+            <solid android:color="@color/white" />
+        </shape>
+    </item>
+</ripple>
